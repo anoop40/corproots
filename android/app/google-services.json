@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349128838967",
+    "firebase_url": "https://corprootsconsultants-b8d80-default-rtdb.firebaseio.com",
+    "project_id": "corprootsconsultants-b8d80",
+    "storage_bucket": "corprootsconsultants-b8d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349128838967:android:4a0f58cfbeb6b83f7d94b2",
+        "android_client_info": {
+          "package_name": "com.corprootsconsultants.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349128838967-lrj14i3qj5ub52kk4rp8o89qeirvrltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4hBWZm4wDrGwC3Qe4i-XHQw68v6Nv8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349128838967-lrj14i3qj5ub52kk4rp8o89qeirvrltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
